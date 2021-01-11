@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name rt9013-33gb)(type Legacy)(uri ${KIPRJMOD}/rt9013-33gb.lib)(options "")(descr ""))
+)
